@@ -1,1 +1,11 @@
 /* your code */
+table{
+	border:1px solid;
+	border-radius:8px;
+}
+.back{
+	background:cyan;
+}
+tr:nth-child(even){
+	background-color:coral;
+}
